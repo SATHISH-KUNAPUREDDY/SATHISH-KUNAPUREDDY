@@ -17,32 +17,28 @@
 
 ## 🚀 Tech Stack
 
-<table>
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Databases</th>
-    <th>Tools & Others</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /><br>
-      HTML, CSS, JS, React, Bootstrap
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,nodejs,express" /><br>
-      Python, Node.js, Express
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" /><br>
-      MySQL, Firebase, MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br>
-      Git, GitHub, VS Code, Postman
-    </td>
-  </tr>
-</table>
+### 🌐 Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### 🖥️ Backend
+![Python](https://skillicons.dev/icons?i=python)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+### 🗄️ Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### ⚒️ Tools & Others
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 
 ## 📊 GitHub Stats  

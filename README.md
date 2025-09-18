@@ -53,9 +53,9 @@ A stylish **login form UI** built using HTML, CSS, and JavaScript.
 
 ## 📊 GitHub Stats & Graphs
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SATHISH-KUNAPUREDDY&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SATHISH-KUNAPUREDDY&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SATHISH-KUNAPUREDDY&theme=radical)  
+![Sathish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SATHISH-KUNAPUREDDY&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SATHISH-KUNAPUREDDY&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SATHISH-KUNAPUREDDY&theme=tokyonight)  
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=SATHISH-KUNAPUREDDY&theme=github)
 
 ---

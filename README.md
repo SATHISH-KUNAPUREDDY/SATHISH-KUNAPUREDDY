@@ -55,14 +55,29 @@
 
 ---
 
-## 🌟 Featured Projects  
+## 📂 Featured Projects
 
-| Project | Description | Live Demo | Source Code |
-|---------|-------------|-----------|-------------|
-| 🛒 **E-Commerce App** | A shopping app with cart, checkout, and responsive UI. | _Coming Soon_ | [GitHub Repo](https://github.com/SATHISH-KUNAPUREDDY) |
-| ✅ **To-Do List App** | Simple task manager with CRUD functionality in JS. | _Coming Soon_ | [GitHub Repo](https://github.com/SATHISH-KUNAPUREDDY) |
-| ⌨️ **Monkey Type Clone** | Typing speed game clone built in JavaScript. | _Coming Soon_ | [GitHub Repo](https://github.com/SATHISH-KUNAPUREDDY) |
-| 🎨 **CSS Layouts & Mini Projects** | Collection of frontend UI experiments. | _Coming Soon_ | [GitHub Repo](https://github.com/SATHISH-KUNAPUREDDY) |  
+### 🛒 E-Commerce App
+A fully functional **E-Commerce web app** with product listings, add-to-cart, and checkout flow.  
+🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY)
+
+---
+
+### ⌨️ Monkey Type Clone
+A **typing speed test app** inspired by MonkeyType, built using JavaScript with real-time speed calculation.  
+🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY)
+
+---
+
+### ✅ To-Do App
+A simple and elegant **task management app** with add, edit, delete, and complete task features.  
+🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY)
+
+---
+
+### 📍 Geolocation API Project
+An app that uses the **Geolocation API** to track and display user location on maps.  
+🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY)
 
 ---
 

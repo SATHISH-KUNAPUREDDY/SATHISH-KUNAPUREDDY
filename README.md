@@ -48,15 +48,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SATHISH-KUNAPUREDDY&layout=compact&theme=tokyonight)  
 
 ---
-## GitHub Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=SATHISH-KUNAPUREDDY&theme=github)
-
---- 
-## Dynamic Stats Cards 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SATHISH-KUNAPUREDDY&theme=radical)
-
----  
 
 ## 🏆 GitHub Trophies  
 
@@ -122,12 +113,6 @@ A stylish **login form UI** built using HTML, CSS, and JavaScript.
 ## 😂 Dev Joke  
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
-
----
-
-## 🐍 Contribution Snake  
-
-![Snake animation](https://github.com/SATHISH-KUNAPUREDDY/SATHISH-KUNAPUREDDY/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

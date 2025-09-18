@@ -58,18 +58,6 @@
 
 ---  
 
-## Profile Badges for Skills 
-### 🌐 Frontend
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript)
-
-### 🖥️ Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Python](https://skillicons.dev/icons?i=python)
-
-### 🗄️ Databases
-![MySQL](https://skillicons.dev/icons?i=mysql) ![Firebase](https://skillicons.dev/icons?i=firebase)
-
----
-
 ## 🏆 GitHub Trophies  
 
 ![](https://github-profile-trophy.vercel.app/?username=SATHISH-KUNAPUREDDY&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15)  

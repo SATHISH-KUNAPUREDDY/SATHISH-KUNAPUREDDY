@@ -48,10 +48,37 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SATHISH-KUNAPUREDDY&layout=compact&theme=tokyonight)  
 
 ---
+## GitHub Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=SATHISH-KUNAPUREDDY&theme=github)
+
+--- 
+## Dynamic Stats Cards 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SATHISH-KUNAPUREDDY&theme=radical)
+
+---  
+
+## Profile Badges for Skills 
+### 🌐 Frontend
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+### 🖥️ Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Python](https://skillicons.dev/icons?i=python)
+
+### 🗄️ Databases
+![MySQL](https://skillicons.dev/icons?i=mysql) ![Firebase](https://skillicons.dev/icons?i=firebase)
+
+---
 
 ## 🏆 GitHub Trophies  
 
 ![](https://github-profile-trophy.vercel.app/?username=SATHISH-KUNAPUREDDY&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15)  
+
+---
+
+## GitHub Language Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SATHISH-KUNAPUREDDY&layout=compact&theme=radical)
 
 ---
 

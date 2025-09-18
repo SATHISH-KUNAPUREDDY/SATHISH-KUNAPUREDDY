@@ -59,32 +59,42 @@
 
 ### 🛒 E-Commerce App
 A fully functional **E-Commerce web app** with product listings, add-to-cart, and checkout flow.  
-🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY)
+🔗 [Live Demo](https://sathish-kunapureddy.github.io/javascript/ecommerce/) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY/javascript/tree/main/ecommerce)
 
 ---
 
-### ⌨️ Monkey Type Clone
-A **typing speed test app** inspired by MonkeyType, built using JavaScript with real-time speed calculation.  
-🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY)
-
----
-
-### ✅ To-Do App
+### ✅ To-Do List
 A simple and elegant **task management app** with add, edit, delete, and complete task features.  
-🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY)
+🔗 [Live Demo](https://sathish-kunapureddy.github.io/javascript/todolist/) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY/javascript/tree/main/todolist)
 
 ---
 
-### 📍 Geolocation API Project
-An app that uses the **Geolocation API** to track and display user location on maps.  
-🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY)
+### ⌨️ Speed Typing App
+A **typing speed test app** inspired by MonkeyType, built using JavaScript with real-time speed calculation.  
+🔗 [Live Demo](https://sathish-kunapureddy.github.io/javascript/speedtype/) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY/javascript/tree/main/speedtype)
+
+---
+
+### 🔐 Login Form
+A stylish **login form UI** built using HTML, CSS, and JavaScript.  
+🔗 [Live Demo](https://sathish-kunapureddy.github.io/javascript/loginform/) | 💻 [Source Code](https://github.com/SATHISH-KUNAPUREDDY/javascript/tree/main/loginform)
+
 
 ---
 
 ## 🤝 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SATHISH-KUNAPUREDDY)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-kunapureddy)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sathish-kunapureddy-854178288/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SATHISH-KUNAPUREDDY">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:sathishkunapureddy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
